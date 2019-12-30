@@ -13,7 +13,7 @@ a:hover{
 
 
 header{
-	background-color: #a21c1c;
+	background-color: #ce2222;
 	height: 57px;
 	display: flex;
 }
@@ -88,7 +88,7 @@ header{
   right: 0;
   z-index: 9999;/*最前面*/
   width: 60%;
-  background: #a21c1c;
+  background: #ce2222;
   transition: .3s ease-in-out;/*表示*/
   -webkit-transform: translateY(-120%);
   transform: translateY(-120%);/*左に隠しておく*/
